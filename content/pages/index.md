@@ -292,7 +292,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Get The Book
         url: '#'
         style: link
         has_icon: false
