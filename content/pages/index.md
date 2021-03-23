@@ -231,7 +231,7 @@ sections:
     actions:
       - label: Get the e-book
         url: /pricing
-        style: link
+        style: primary
         has_icon: true
         icon_position: right
         icon: arrow-right
