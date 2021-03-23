@@ -235,7 +235,7 @@ sections:
         has_icon: true
         icon_position: right
         icon: arrow-right
-    actions_position: left
+    actions_position: bottom
     align: center
     padding_top: large
     padding_bottom: large
