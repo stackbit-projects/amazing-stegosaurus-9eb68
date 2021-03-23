@@ -234,6 +234,7 @@ sections:
         style: primary
         has_icon: true
         icon_position: right
+        icon: arrow-right
     actions_position: bottom
     align: center
     padding_top: large
