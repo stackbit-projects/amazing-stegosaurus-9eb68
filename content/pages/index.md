@@ -239,7 +239,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: secondary
     background_image: images/background-2.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
