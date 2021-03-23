@@ -247,7 +247,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - title: First
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -255,9 +255,15 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
+
+
+      \<html>
+
+
+      \</html>
     actions: []
     actions_position: bottom
     actions_width: fourty
