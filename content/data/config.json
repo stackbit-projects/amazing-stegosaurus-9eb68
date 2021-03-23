@@ -36,7 +36,7 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "We're currently invite only! Click here to [**Learn More**](/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
