@@ -232,7 +232,7 @@ sections:
       - label: Get the e-book
         url: /pricing
         style: primary
-        has_icon: true
+        has_icon: false
         icon_position: right
     actions_position: bottom
     align: center
