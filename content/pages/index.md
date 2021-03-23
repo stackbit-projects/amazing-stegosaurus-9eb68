@@ -306,7 +306,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/marketing-playbook.png
-    video_embed_html: sfa
 seo:
   title: Stackbit Book Theme
   description: The preview of the Book theme
