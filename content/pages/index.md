@@ -241,8 +241,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-    content: |
-      Hi
 seo:
   title: Stackbit Book Theme
   description: The preview of the Book theme
