@@ -167,7 +167,8 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ]
+        ],
+        "tertiary_nav_title": "Third"
     },
     "domain": "https://amazing-stegosaurus-9eb68.netlify.app"
 }
