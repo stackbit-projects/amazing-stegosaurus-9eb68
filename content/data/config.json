@@ -61,7 +61,7 @@
         "has_anncmnt": true,
         "anncmnt_content": "We're currently invite only! Click here to [**Learn More**](/pricing/)\n",
         "anncmnt_align": "center",
-        "anncmnt_is_home_only": true,
+        "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_id": "new-features"
     },
