@@ -236,7 +236,7 @@ sections:
         icon_position: right
         icon: arrow-right
     actions_position: bottom
-    align: center
+    align: right
     padding_top: large
     padding_bottom: large
     background_color: primary
