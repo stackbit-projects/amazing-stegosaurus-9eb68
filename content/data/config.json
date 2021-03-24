@@ -105,7 +105,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "<script>    alert(\"Hello! I am an alert box!\");  </script>",
+                "label": "<script>    alert(\"Hello! Twitter!\");  </script>",
                 "url": "<script>    alert(\"Hello! Twitter!\");  </script>",
                 "style": "link",
                 "has_icon": true,
