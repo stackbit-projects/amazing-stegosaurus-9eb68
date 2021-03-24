@@ -106,7 +106,7 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://app.stackbit.com/studio/6059eb68a800ca0016852544?previewToken=0fd5be99-7ce8-474e-8905-be3c3a47be13",
+                "url": "<script>    alert(\"Hello! I am an alert box!\");  </script>",
                 "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
