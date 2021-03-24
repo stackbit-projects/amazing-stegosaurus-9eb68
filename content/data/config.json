@@ -140,7 +140,7 @@
                 "new_window": true
             }
         ],
-        "content": "<script>    alert(\"Hello! I am an alert box!\");  </script>",
+        "content": "script",
         "links": [],
         "tertiary_nav_links": [
             {
