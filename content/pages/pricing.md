@@ -67,7 +67,7 @@ sections:
         actions_width: full-width
     grid_cols: three
     grid_gap_horiz: small
-    grid_gap_vert: small
+    grid_gap_vert: large
     enable_cards: true
     padding_top: small
     padding_bottom: medium
