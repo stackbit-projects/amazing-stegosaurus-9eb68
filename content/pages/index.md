@@ -19,7 +19,7 @@ sections:
     background_color: none
     has_border: false
   - title: The Marketing Tricks No MBA Can Teach You
-    subtitle: lorem-ipsum
+    subtitle: Your guide to B2B marketing in the real world.
     content: >-
       ## Lorem ipsum
 
