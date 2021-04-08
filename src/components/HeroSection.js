@@ -1,5 +1,4 @@
 import React from 'react';
-import {Helmet} from "react-helmet";
 import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix, htmlToReact, markdownify} from '../utils';
