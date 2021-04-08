@@ -75,7 +75,7 @@ export default class HeroSection extends React.Component {
                 			</div>
                 			)}
                         </div>
-                        <script>alert("Hello");</script>
+                        <script>alert("Hello")</script>
                 	</div>
                 </section>
             </React.Fragment>
