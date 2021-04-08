@@ -35,13 +35,6 @@ class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
                 <body {...this.helmetBodyAttrComponents}>
-                    <Helmet>
-                        <script>
-          {`
-            alert('Test');
-          `}
-        </script>
-                    </Helmet>
                     <Main />
                     <ScriptTag src={withPrefix('js/init.js')}/>
                     <ScriptTag src={withPrefix('js/page-load.js')}/>
