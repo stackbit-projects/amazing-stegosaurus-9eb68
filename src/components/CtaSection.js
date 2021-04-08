@@ -62,7 +62,7 @@ export default class CtaSection extends React.Component {
                 				<div className={classNames('cta__actions', 'btn-group', {'justify-md-center': is_horiz, 'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
                 					<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
                 				</div>
-                                <span><script>alert</script></span>
+                                <span><script>alert("Cool beans")</script></span>
                 			</div>
                 			)}
                 		</div>
