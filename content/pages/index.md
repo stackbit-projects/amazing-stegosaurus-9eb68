@@ -20,17 +20,10 @@ sections:
     has_border: false
   - title: The Marketing Tricks No MBA Can Teach You
     subtitle: Your guide to B2B marketing in the real world.
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      This book is your go-to guide for all marketing channels. Learn how to
+      create effective landing pages, compelling ads, creative copywriting and
+      converting marketing materials for any business.
     actions: []
     image_alt: lorem-ipsum
     media_position: left
