@@ -140,7 +140,7 @@
                 "new_window": true
             }
         ],
-        "content": "script",
+        "content": "<script>",
         "links": [],
         "tertiary_nav_links": [
             {
