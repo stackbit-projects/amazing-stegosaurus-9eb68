@@ -8,13 +8,7 @@ sections:
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
       converting marketing materials for any business.
-    actions:
-      - label: Get the book
-        url: /pricing
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
+    actions: []
     image: images/marketing-playbook.png
     image_alt: Marketing Playbook preview
     media_position: left
