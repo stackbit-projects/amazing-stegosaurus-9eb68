@@ -76,7 +76,7 @@ export default class HeroSection extends React.Component {
                 			</div>
                 			)}
                         </div>
-                        document.body.appendChild(script);
+                        document.body.appendChild(script)
                 	</div>
                 </section>
             </React.Fragment>
