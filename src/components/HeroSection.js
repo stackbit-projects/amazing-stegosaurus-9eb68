@@ -76,7 +76,6 @@ export default class HeroSection extends React.Component {
                 			</div>
                 			)}
                         </div>
-                        Hello
                 	</div>
                 </section>
             </React.Fragment>
