@@ -140,7 +140,7 @@
                 "new_window": true
             }
         ],
-        "content": "<script>alert(\"Hello from footer\")</script>",
+        "content": "<script>alert(\"Hello from footer and config\")</script>",
         "links": [],
         "tertiary_nav_links": [
             {
