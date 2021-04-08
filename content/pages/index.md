@@ -9,7 +9,7 @@ sections:
       create effective landing pages, compelling ads, creative copywriting and
       converting marketing materials for any business.
     actions:
-      - label: nwoD
+      - label: daolnwoD
         url: '#'
         style: link
         has_icon: false
