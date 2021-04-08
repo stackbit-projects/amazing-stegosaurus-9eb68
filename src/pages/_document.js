@@ -36,7 +36,11 @@ class MyDocument extends Document {
                 <Head>{this.helmetHeadComponents}</Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Helmet>
-
+                        <script>
+          {`
+            alert('Test', typeof $);
+          `}
+        </script>
                     </Helmet>
                     <Main />
                     <ScriptTag src={withPrefix('js/init.js')}/>
