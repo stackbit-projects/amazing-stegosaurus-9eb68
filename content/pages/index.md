@@ -34,7 +34,7 @@ sections:
       create effective landing pages, compelling ads, creative copywriting and
       converting marketing materials for any business.
     actions:
-      - label: lorem-ipsum
+      - label: Download Free
         url: '#'
         style: primary
         has_icon: false
