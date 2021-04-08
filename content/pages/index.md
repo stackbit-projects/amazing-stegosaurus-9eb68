@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: none
     has_border: false
-  - title: lorem-ipsum
+  - title: The Marketing Tricks No MBA Can Teach You
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
