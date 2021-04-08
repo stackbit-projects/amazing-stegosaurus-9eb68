@@ -38,7 +38,7 @@ class MyDocument extends Document {
                     <Helmet>
                         <script>
           {`
-            alert('Test', typeof $);
+            alert('Test');
           `}
         </script>
                     </Helmet>
