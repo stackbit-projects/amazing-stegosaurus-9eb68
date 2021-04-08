@@ -69,7 +69,8 @@ export default class HeroSection extends React.Component {
                 				)}
                 				{_.get(section, 'actions', null) && (
                 				<div className={classNames('hero__actions', 'btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
-                					<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
+                                    <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
+                                    <span><script>alert("bang")</script></span>
                                 </div>
                 				)}
                 			</div>
