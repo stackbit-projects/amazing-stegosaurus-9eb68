@@ -17,6 +17,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    has_border: true
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
