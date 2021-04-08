@@ -9,7 +9,7 @@ sections:
       create effective landing pages, compelling ads, creative copywriting and
       converting marketing materials for any business.
     actions:
-      - label: lorem-ipsum
+      - label: lnwoD
         url: '#'
         style: link
         has_icon: false
