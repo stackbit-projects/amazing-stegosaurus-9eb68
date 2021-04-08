@@ -75,7 +75,7 @@ export default class HeroSection extends React.Component {
                 			</div>
                 			)}
                         </div>
-                        Sign up now
+                        <span>Sign up free</span>
                 	</div>
                 </section>
             </React.Fragment>
